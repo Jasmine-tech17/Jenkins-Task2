@@ -1,3 +1,3 @@
 
 echo "Hello Jenkins!, This is automated build test"
-echo "Testing for E-mail 2"
+echo "Testing for E-mail 3"
